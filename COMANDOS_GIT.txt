@@ -1,0 +1,12 @@
+COMANDOS GIT:
+git init 								- Inicializa el git en la carpeta en la que estas ubicado.
+git status 								- Ves los estado en el que esta tu repositorio.
+git remote add origin (URL) 			- Une tu repositorio local con el remoto.
+git branch (nombre_de_rama) 			- Crea una rama con el nombre seleccionado.
+git checkout (nombre_de_rama) 			- Cambiar de rama.
+git add file (nombre_de_archivo) 		- Añade el archivo/carpeta al repositorio.
+git add -A 								- Agrega todos los archivos/carpetas al repositorio.
+git commit -m ("mensaje") 				- Creas una actualización/versión con etiqueta.
+git log - Ves los "commits" creados.
+git push origin (nombre_de_rama) 		- Sincroniza repositorio local con remoto.
+git clone repository (URL) 				- Clonas un repositorio remoto en local.
